@@ -1,4 +1,4 @@
-### Oie!!! Eu sou a Taynara Costa
+### Oie!!! Eu sou a Taynara Silva
 
 
 - 💫 Atualmente estou me graduando em Engenharia de Software
