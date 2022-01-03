@@ -1,6 +1,6 @@
 ### Oie!!! Eu sou a Taynara Silva
 - 💫 Atualmente estou me graduando em Engenharia de Software
-- 🌱 Estudando JavaScript
+- 🌱 
 - ✨ Pronouns: ela/dela
  <div>
   <a href="https://github.com/taynara-yt">
