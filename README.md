@@ -1,4 +1,4 @@
-### Oi!! Eu sou a Taynara Silva
+### Oi! Eu sou a Taynara Silva
 - 💫 Atualmente estou me graduando em Engenharia de Software
 - 🌱 Estudando Testes e Qualidade de Software (QA)
 - ✨ Pronouns: ela/dela
