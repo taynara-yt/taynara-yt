@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Taynara Silva
 - 💫 Atualmente estou me graduando em Engenharia de Software
 - 🌱 Estudando Testes e Qualidade de Software (QA)
-- ✨ Pronouns: ela/dela
+
  <div>
   <a href="https://github.com/taynara-yt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taynara-yt&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
