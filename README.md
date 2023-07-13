@@ -1,4 +1,4 @@
-### Oi! Eu sou a Taynara Silva
+### Oi! Eu sou a Tay
 - 💫 Engenheira de Software
 - 🌱 Estudando Testes e Qualidade de Software (QA)
 
