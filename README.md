@@ -1,4 +1,4 @@
-### Oi! Eu sou a Tay c:
+### Oi! Eu sou a Tay :)
 - 💫 Engenheira de Software
 - 🌱 Estudando Testes e Qualidade de Software (QA)
 
