@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Tay :)
 - 💫 Engenheira de Software
-- 🌱 Estudando Testes e Qualidade de Software (QA)
+- 🌱 Pós-graduanda em Teste de Software
 
  <div>
   <a href="https://github.com/taynara-yt">
