@@ -1,4 +1,3 @@
-- 💫 Engenheira de Software
 - 🌱 Pós-graduanda em Teste de Software
 
  <div>
