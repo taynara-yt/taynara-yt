@@ -1,4 +1,4 @@
-### Oi! Eu sou a Tay :)
+### tay
 - 💫 Engenheira de Software
 - 🌱 Pós-graduanda em Teste de Software
 
